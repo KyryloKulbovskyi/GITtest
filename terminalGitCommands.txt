@@ -2,6 +2,6 @@ terminal git commands
 
 git status -
 
-git commit -m <description>
+//git commit -m <description>
 
 git checkout <hash> - пригнути до необхідного комміту
