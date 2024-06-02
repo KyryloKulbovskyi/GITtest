@@ -2,6 +2,8 @@ terminal git commands
 
 git status -
 
-//git commit -m <description>
+git commit -m <description>
 
 git checkout <hash> - пригнути до необхідного комміту
+
+git remote add origin - make changes on github
