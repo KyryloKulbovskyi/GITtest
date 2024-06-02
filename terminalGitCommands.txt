@@ -18,3 +18,6 @@ git branch - shows actual branch
 git checkout -b <branch name> - create new branch
 
 This text made in branch A
+
+This text in branch-B
+
