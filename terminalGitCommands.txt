@@ -1,3 +1,5 @@
 terminal git commands
 
 git status -
+
+git commit -m <description>
