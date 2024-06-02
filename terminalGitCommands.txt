@@ -9,3 +9,10 @@ git checkout <hash> - пригнути до необхідного комміт�
 git remote add origin - make changes on github
 
 git pull origin main - changes on local repo
+
+
+How to work with branches
+
+git branch - shows actual branch
+
+git checkout -b <branch name> - create new branch
